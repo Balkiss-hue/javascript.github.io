@@ -1,0 +1,23 @@
+body{
+    background:url(./images/black5.jpeg);
+}
+form{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    border-radius: 10px;
+    color: #fff;
+    box-shadow: 0px 0px 10px rgb(146, 145, 145);
+    background-color: rgba(100, 100, 109, 0.637);
+}
+.password a{
+    color: #fff;
+}
+.password a:hover{
+    color: #fff;
+}
+.container hr{
+    border-color: #fff;
+}

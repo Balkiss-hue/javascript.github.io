@@ -1,0 +1,51 @@
+.body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 1em;
+}
+.first-nav{
+    background-color: #0a0a0a;
+    color: #fff;
+}
+.first-nav .navbar-brand{
+    color: #fff;
+}
+.arrow .flat{
+    text-decoration: none;
+    background-color: #f5f4f1;
+    color: white;
+    padding:0 4px 0 4px;
+}
+.third-nav{
+    background-color:#0a0a0a;
+}
+.third-nav .navbar-nav .nav-item{
+    margin-left: 2em;
+}
+.third-nav .navbar-nav .nav-item .nav-link{
+    color: #fff;
+}
+.third-nav .navbar-nav .nav-item .nav-link:hover{
+    color: #fff;
+    background-color: #007bff;
+}
+.carousel-item{
+    height: 60vh;
+}
+.upcoming{
+    background-color: #e2e3e7;
+    height: 50vh;
+}
+.two-col{
+    border: solid 1px #fff;
+    box-shadow: 0px 0px 10px grey;
+    border-radius: 10px;
+}
+footer hr{
+    background-color: #fff;
+}
+.programmes ul li{
+    list-style: none;
+}
+.programmes ul li a{
+    color: #fff;
+}

@@ -1,0 +1,25 @@
+body {
+    background: url(./images/black5.jpeg);
+    color: white;
+}
+.container {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    width: 500px;
+    height: 670px;
+    background-color: rgba(100, 100, 109, 0.637);
+    box-shadow: rgb(117, 109, 98);
+    border-radius: 10px;
+
+}
+hr{
+    border-color: white;
+}
+
+.container .form-group{
+    font-size: 12px;
+    padding: 7px;
+}
